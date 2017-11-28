@@ -109,3 +109,4 @@ List of measurements:
 * FrequencyBodyGyroscopeJerkMagnitudeMean
 * FrequencyBodyGyroscopeJerkMagnitudeStd
 * FrequencyBodyGyroscopeJerkMagnitudeMeanFrequency
+Note: Std stands for standard deviation.
