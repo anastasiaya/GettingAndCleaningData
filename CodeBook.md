@@ -35,7 +35,7 @@ List of measurements:
 * TimeBodyAccelerometerMeanZ
 * TimeBodyAccelerometerStdX
 * TimeBodyAccelerometerStdY
-* TimeBodyAccelerometerStdZ
+* TimeBodyAccelerometerStdZ 
 * TimeGravityAccelerometerMeanX
 * TimeGravityAccelerometerMeanY
 * TimeGravityAccelerometerMeanZ
