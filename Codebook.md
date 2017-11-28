@@ -21,8 +21,7 @@ Identifiers:
 * subject - The ID of the test subject
 * activity - The type of activity performed when the corresponding measurements were taken
 
-Activity Labels
-
+Activity Labels:
 * WALKING: subject was walking during the test
 * WALKING_UPSTAIRS: subject was walking up a staircase during the test
 * WALKING_DOWNSTAIRS: subject was walking down a staircase during the test
